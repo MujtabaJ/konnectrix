@@ -1,0 +1,121 @@
+{
+    "users": [
+        {
+            "userId": "1",
+            "email": "tashfeen@mparsec.com",
+            "password": "ABcde@11",
+            "firstName": "Tashfeen",
+            "lastName": "Tipu",
+            "profileImage": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/7_avatar-512.png",
+            "title": "Software Developer",
+            "networksList": [
+                "IBA"
+            ]
+        },
+        {
+            "userId": "2",
+            "email": "ghulam@mparsec.com",
+            "password": "ABcde@11",
+            "firstName": "Ghulam",
+            "lastName": "Mujtaba",
+            "profileImage": "https://image.flaticon.com/icons/png/512/147/147144.png",
+            "title": "Team Lead",
+            "networksList": [
+                "IBA",
+                "Kalsoft",
+                "mParsec"
+            ]
+        },
+        {
+            "userId": "3",
+            "email": "hameer@mparsec.com",
+            "password": "ABcde@11",
+            "firstName": "Hameer",
+            "lastName": "Siddique",
+            "profileImage": "https://icon-library.com/images/avatar-icon-images/avatar-icon-images-4.jpg",
+            "title": "Trainee",
+            "networksList": [
+                "mParsec"
+            ]
+        }
+    ],
+    "posts": [
+        {
+            "postId": "1",
+            "userId": "1",
+            "networkId": "1",
+            "postText": "A platform where you can buy apps as per your needs at a very economical price.we provide you the best.",
+            "image": "",
+            "time": "30 minutes ago",
+            "ikesCount": 20,
+            "isLiked": true,
+            "commentsCount": 5,
+            "commentsList": [
+                {
+                    "userId": 2,
+                    "comment": "Hello, there ??"
+                }
+            ]
+        },
+        {
+            "postId": "2",
+            "userId": "1",
+            "networkId": "1",
+            "postText": "A platform where you can buy apps as per your needs at a very economical price.we provide you the best.",
+            "image": "",
+            "time": "30 minutes ago",
+            "ikesCount": 20,
+            "isLiked": false,
+            "commentsCount": 5,
+            "commentsList": [
+                {
+                    "userId": 2,
+                    "comment": "Hello, there ??"
+                }
+            ]
+        }
+    ],
+    "networks": [
+        {
+            "networkId": "1",
+            "name": "IBA",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/1/1e/Institute_of_Business_Administration%2C_Karachi_%28logo%29.png",
+            "description1": "Group Agent Network Resource Page",
+            "description2": "Info and updates for our agency partners",
+            "usersId": [
+                "1",
+                "2"
+            ],
+            "theme": {
+                "color": "#660033"
+            }
+        },
+        {
+            "networkId": "2",
+            "name": "mParsec",
+            "logo": "https://pbs.twimg.com/profile_images/902832116160913409/07gPVbEi_400x400.jpg",
+            "description1": "Group Agent Network Resource Page",
+            "description2": "Info and updates for our agency partners",
+            "usersId": [
+                "2"
+            ],
+            "theme": {
+                "color": "#C9484E"
+            }
+        },
+        {
+            "networkId": "3",
+            "name": "Kalsoft",
+            "logo": "https://media.glassdoor.com/sqll/247552/kalsoft-squarelogo-1431929944754.png",
+            "description1": "Group Agent Network Resource Page",
+            "description2": "Info and updates for our agency partners",
+            "usersId": [
+                "2",
+                "3"
+            ],
+            "theme": {
+                "color": "#A00C11"
+            }
+        }
+    ]
+}

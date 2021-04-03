@@ -1,0 +1,157 @@
+{
+    "common": {
+        "Seeall": "See all",
+        "Accept": "Accept",
+        "Ignore": "Ignore",
+        "Connected": "Connected",
+        "Remove": "Remove",
+        "connect": "or connect with"
+    },
+    "Profile": {
+        "heading": "Add info to your your profile",
+        "FirstName": "First Name",
+        "LastName": "Last Name",
+        "EmailAddress": "Email Address",
+        "Country/Region": "Country/Region",
+        "Occupation": "Occupation",
+        "DateOfBirth": "Date of Birth",
+        "Gender": "Gender"
+    },
+    "login": {
+        "rememberMe": "Remember Me",
+        "forgotPassword": "Forgot Password?",
+        "connect": "or connect with",
+        "newHere": "New here?",
+        "signUp": "Sign Up instead",
+        "signIn": "SIGN IN",
+        "enterEmail": "Email",
+        "password": "Password"
+    },
+    "forgotPassword": {
+        "forgotPassword": "Forgot Password?",
+        "submit": "Submit",
+        "backTo": "Back to ",
+        "signin": "Sign in"
+    },
+    "resetPassword": {
+        "resetPassword": "Reset Password?",
+        "enterOTP": "Enter OTP",
+        "enterPassword": "Enter Password",
+        "confirmPassword": "Confirm Password"
+    },
+    "welcome": {
+        "connect": "Connect",
+        "requested": "Requested",
+        "create": "Create Network Request",
+        "welcome": "Welcome",
+        "to": "To",
+        "availableNetworks": "Available Networks"
+    },
+    "firstTimeLoginStepOne": {
+        "connecttoyournetwork": "Connect to your Network",
+        "or": "OR",
+        "explorekonnectrix": "Explore Konnectrix"
+    },
+    "home": {
+        "networks": "NETWORKS",
+        "viewall": "VIEW ALL",
+        "addnewnetwork": "ADD NEW NETWORK",
+        "like": "LIKE",
+        "comment": "COMMENT",
+        "share": "SHARE",
+        "writecomments": "WRITE COMMENTS...",
+        "jobsrecommendedforyou": "Jobs recomended for you",
+        "apply": "Apply"
+    },
+    "sideDrawer": {
+        "networks": "NETWORKS",
+        "settings": "SETTINGS",
+        "about": "ABOUT",
+        "help": "HELP & FAQs",
+        "organisation": "ORGANISATION",
+        "signOut": "SIGN OUT",
+        "joinOrganisation": "+ JOIN AN ORGANISATION",
+        "createNetwork": "CREATE NETWORK",
+        "myNetworks": "MY NETWORKS",
+        "associatedNetworks": "ASSOCIATED NETWORKS",
+        "showMore": "SHOW MORE",
+        "viewProfile": "VIEW PROFILE"
+    },
+    "createNetwork": {
+        "heading": "Create Network",
+        "createButton": "Create",
+        "upload": "Upload Photo",
+        "networkRepText": "This network would be official representation of a network",
+        "addDescription": "Add Description",
+        "describeNetworkText": "Describe your network so people know what it's about.",
+        "describeNetworkPlaceholder": "Describe your network",
+        "addDetails": "+ add details like aims, topic, schedule etc* ",
+        "learnMore": "Learn More",
+        "networkVisibility": "Network visibility can't be changed once the network is created.",
+        "purposeOfNetwork": "Purpose to create network",
+        "connectWithUs": "Connect with us",
+        "weWillBeInTouch": "We'll be in touch!",
+        "sendRequest": "Send Request",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "designation": "Designation",
+        "message": "Message",
+        "cancel":"Cancel",
+        "thankYouText": "Thank You",
+        "thankYouDescription1": "To be a member of Konnectrix.",
+        "thankYouDescription2": "You will be notified soon, check your Email.",
+        "doneButton": "OK"
+    },
+    "splash":{
+        "your":"YOUR ",
+        "network":" NETWORK IS YOUR",
+        "networth":" NETWORTH"
+    },
+    "myNetworks": {
+        "invites": "Invites",
+        "discover": "Discover",
+        "accept": "Accept",
+        "reject": "Reject",
+        "myNetwork": "My Network",
+        "create": "Create"
+    },
+    "Connections": {
+        "Connections": "Connections",
+        "Invitation": "Invitation",
+        "AddContacts": "Add Contacts"
+    },
+    "Errors": {
+        "userNameEmpty": "User Name is required.",
+        "invalidEmail": "Email is invalid.",
+        "passwordEmpty": "Password is required.",
+        "lessCharacters": "Password must contain at least 8 characters.",
+        "atLeastOneSpecialCharacter": "Password must contain at least one special character.", 
+        "passwordsMatch": "Passwords do not match.",
+        "wrongCredentials": "Either the email or password is incorrect",
+        "atLeastOne":"Password must contain at least one capital alphabet, one small alphabet, one number & one special character."
+    },
+    "Registration": {
+        "name": "Name",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "agree": "I agree to all",
+        "terms": "Terms & Conditions",
+        "signUp": "SIGN UP",
+        "alreadyAccount": "Already have an account?"
+    },
+    "joinNetworkRequest": {
+        "name": "Name:",
+        "phoneNumber": "Phone Number:",
+        "joinNetworkButton": "Join Network Request",
+        "thankYouText": "Thank You",
+        "thankYouDescription1": "To be a member of network.",
+        "thankYouDescription2": "You will be notified soon as your account is verified.",
+        "doneButton": "OK",
+        "pkCode":"+92"
+    }
+}
